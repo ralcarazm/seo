@@ -1,4 +1,4 @@
 # Recursos y herramientas SEO
 ## Factores SEO
-* [Google algorithm change (MOZ)](https://moz.com/google-algorithm-change)
-* [Ranking factors (SEMrush)](https://es.semrush.com/ranking-factors/)
+* <a href="https://moz.com/google-algorithm-change" target="_blank">Google algorithm change (MOZ)</a>
+* <a href="https://es.semrush.com/ranking-factors/" target="_blank">Ranking factors (SEMrush)</a>
