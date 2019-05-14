@@ -19,8 +19,11 @@
 * [Sistrix blog](https://www.sistrix.es/blog/)
 * [SEO skeptic](http://www.seoskeptic.com/)
 ## Profesionales SEO
-* [Aleyda Solis](https://www.aleydasolis.com/en/blog/)
-## Factores SEO
+* [Aleyda Solis(migraciones, Google AMP)](https://www.aleydasolis.com/en/blog/)
+* [Fernando Maciá (indexabilidad y SEO internacional)](https://www.humanlevel.com/)
+* [Luís Villanueva (auditorías SEO)](https://luismvillanueva.com/)
+* [Natzir Turrado (analítica web, Conversion Rate Optimization)](https://www.analistaseo.es/)
+## Factores SEO]()
 * [Google algorithm change (MOZ)](https://moz.com/google-algorithm-change)
 * [Ranking factors (SEMrush)](https://es.semrush.com/ranking-factors/)
 ## Keyword Research
