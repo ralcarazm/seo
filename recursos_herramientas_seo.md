@@ -1,5 +1,12 @@
 # Recursos y herramientas SEO
 ## Materiales del curso
+* Fundamentos y algoritmo
+## Otros recursos de interés
+* [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
+## Canales oficiales
+## Medios especializados
+## Medios profesionales
+## Profesionales SEO
 ## Factores SEO
 * [Google algorithm change (MOZ)](https://moz.com/google-algorithm-change)
 * [Ranking factors (SEMrush)](https://es.semrush.com/ranking-factors/)
