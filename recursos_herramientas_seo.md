@@ -1,32 +1,34 @@
-# Recursos y herramientas SEO
+#
 ## Materiales del curso
 * Fundamentos y algoritmo
 ## Otros recursos de interés
 * [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
-## Canales oficiales
+## Recursos de información
+### Canales oficiales
 * [Google webmaster central blog](https://webmasters.googleblog.com/)
 * [Google webmasters help](https://www.youtube.com/user/GoogleWebmasterHelp)
 * [Bing search blog](https://blogs.bing.com/search)
-## Medios especializados
+### Medios especializados
 * [Search engine land](https://searchengineland.com/)
 * [Search engine journal](https://www.searchenginejournal.com/)
 * [Search engine roundtable](https://www.seroundtable.com/)
 * [The SEM post](http://www.thesempost.com/)
-## Medios profesionales
+### Medios profesionales
 * [Human Level press](https://www.humanlevel.com/blog.html)
 * [The Moz blog](https://moz.com/blog)
 * [SEMrush blog](SEMrush blog)
 * [Sistrix blog](https://www.sistrix.es/blog/)
 * [SEO skeptic](http://www.seoskeptic.com/)
-## Profesionales SEO
-* [Aleyda Solis(migraciones, Google AMP)](https://www.aleydasolis.com/en/blog/)
+### Profesionales SEO
+* [Aleyda Solis (migraciones, Google AMP)](https://www.aleydasolis.com/en/blog/)
 * [Fernando Maciá (indexabilidad y SEO internacional)](https://www.humanlevel.com/)
 * [Luís Villanueva (auditorías SEO)](https://luismvillanueva.com/)
 * [Natzir Turrado (analítica web, Conversion Rate Optimization)](https://www.analistaseo.es/)
 ## Factores SEO]()
 * [Google algorithm change (MOZ)](https://moz.com/google-algorithm-change)
 * [Ranking factors (SEMrush)](https://es.semrush.com/ranking-factors/)
-## Keyword Research
+## Herramientas
+### Keyword Research
 * [Google Keyword Planner](https://adwords.google.com/ko/KeywordPlanner/Home)
 * [Google Trends](http://www.google.es/trends)
 * [KeywordTool.io](https://keywordtool.io/)
@@ -35,21 +37,21 @@
 * [Keyword density analyzer](http://tools.seobook.com/general/keyword-density/)
 * [Word Counter](https://wordcounter.net/)
 * [Screaming Frog](http://www.screamingfrog.co.uk/seo-spider/)
-## Simuladores de robots
+### Simuladores de robots
 * [Bot simulator](http://www.botsimulator.coma/)
 * [Search engine bot simulator](http://www.xml-sitemaps.com/se-bot-simulator.html)
 * [Varvy SEO tool](http://www.feedthebot.com/tools/spider/)
 * [MultiPageRank Checker](http://multipagerank.com/)
-## Análisis de penalizaciones de algoritmos
+### Análisis de penalizaciones de algoritmos
 * [Disavow links tool](https://www.google.com/webmasters/tools/disavow-links-main)
 * [Website penalty indicator](https://feinternational.com/website-penalty-indicator/)
 * [Link Detox](https://www.linkresearchtools.com/seo-tools/link-audit/link-detox/)
-## Optimización de snippets
+### Optimización de snippets
 * [Snippet optimizer](http://www.seomofo.com/snippet-optimizer.html)
-## Inspectores de tecnologías de desarrollo
+### Inspectores de tecnologías de desarrollo
 * [Built With](https://builtwith.com/)
 * [What WordPress theme is that](https://whatwpthemeisthat.com/)
-## Auditoría SEO
+### Auditoría SEO
 * [Screaming Frog](http://www.screamingfrog.co.uk/seo-spider/)
 * [Spider test tool](http://tools.seobook.com/general/spider-test/)
 * [SEO quake](https://www.seoquake.com/index.html)
@@ -58,12 +60,12 @@
 * [MetaSEO inspector](https://chrome.google.com/webstore/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
 * [On page optimization tool](https://www.internetmarketingninjas.com/seo-tools/free-optimization/)
 * [SEO Analysis (SEO Chat)](http://tools.seochat.com/tools/seo-rapport-tool)
-## Velocidad de carga
+### Velocidad de carga
 * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [GT metrix](https://gtmetrix.com/)
 * [YSlow](http://yslow.org/)
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/)
-## Salud del servidor y seguridad
+### Salud del servidor y seguridad
 * [Web page test](https://www.webpagetest.org/)
 * [Website Analysis (Nibbler)(http://nibbler.silktide.com/)
 * [Webhint](https://webhint.io/scanner/)
@@ -74,17 +76,17 @@
 * [Sucuri SiteCheck scanner](https://sitecheck.sucuri.net/)
 * [Email blacklists check](https://mxtoolbox.com/blacklists.aspx)
 * [Malware and security scanner](https://sitecheck.sucuri.net/)
-## Optimización para dispositivos móviles
+### Optimización para dispositivos móviles
 * [Prueba de optimización para móviles (Google)](https://search.google.com/test/mobile-friendly)
 * [Mobile Readiness Test](https://ready.mobi/)
-## Validadores de código fuente
+### Validadores de código fuente
 * [W3C validator (HTML)](https://validator.w3.org/)
 * [Validator.nu (HTML)](https://validator.nu/)
 * [CSS Validator](http://jigsaw.w3.org/css-validator)
 * [Herramienta de pruebas de datos estructurados](https://search.google.com/structured-data/testing-tool)
 * [AMP Validator](https://validator.ampproject.org/)
 * [.htaccess validator](http://shop.alterlinks.com/htaccess-validator/htaccess-validator.php)
-## Análisis de enlaces
+### Análisis de enlaces
 * [Google Search Console](https://search.google.com/search-console)
 * [Google Analytics](https://analytics.google.com/analytics/web/)
 * link:dominio (en el buscador de Google)
@@ -93,7 +95,7 @@
 * [Bad Neighborhood Check](http://www.bad-neighborhood.com/text-link-tool.htm)
 * [NoFollow (extensión Chrome)](https://chrome.google.com/webstore/detail/nofollow/dfogidghaigoomjdeacndafapdijmiid)
 * [Majestic SEO](https://es.majestic.com/)
-## Generación y seguimiento de contenido
+### Generación y seguimiento de contenido
 * [SEO Writing Assistant](https://es.semrush.com/swa/demo)
 * [Google Alerts](http://www.google.com/alerts)
 * [Code to text rario](http://tools.seochat.com/tools/code-to-text-ratio)
@@ -102,7 +104,7 @@
 * [Plagiarisma](http://plagiarisma.net/)
 * [Plagiarism Checker](https://smallseotools.com/plagiarism-checker/)
 * [Docode](https://www.docode.cl/)
-## Herramientas multipropósito (de pago)
+### Herramientas multipropósito (de pago)
 * [SEMrush](https://www.semrush.com/)
 * [All-in-One Website SEO](https://moz.com/products)
 * [Sistrix](https://www.sistrix.es/)
@@ -110,7 +112,7 @@
 * [URLtrends](https://www.urltrends.com/)
 * [Woorank](https://www.woorank.com/es/)
 * [SEO site checkup](https://seositecheckup.com/)
-## Otros directorios
+### Otros directorios
 * [Free SEO tools from WebConfs.com](https://www.webconfs.com/)
 * [Search engine optimization tools](http://tools.seobook.com/)
 * [UITest: web development tools](https://uitest.com/en/analysis/)
