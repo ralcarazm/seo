@@ -4,9 +4,22 @@
 ## Otros recursos de interés
 * [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
 ## Canales oficiales
+* [Google webmaster central blog](https://webmasters.googleblog.com/)
+* [Google webmasters help](https://www.youtube.com/user/GoogleWebmasterHelp)
+* [Bing search blog](https://blogs.bing.com/search)
 ## Medios especializados
+* [Search engine land](https://searchengineland.com/)
+* [Search engine journal](https://www.searchenginejournal.com/)
+* [Search engine roundtable](https://www.seroundtable.com/)
+* [The SEM post](http://www.thesempost.com/)
 ## Medios profesionales
+* [Human Level press](https://www.humanlevel.com/blog.html)
+* [The Moz blog](https://moz.com/blog)
+* [SEMrush blog](SEMrush blog)
+* [Sistrix blog](https://www.sistrix.es/blog/)
+* [SEO skeptic](http://www.seoskeptic.com/)
 ## Profesionales SEO
+* [Aleyda Solis](https://www.aleydasolis.com/en/blog/)
 ## Factores SEO
 * [Google algorithm change (MOZ)](https://moz.com/google-algorithm-change)
 * [Ranking factors (SEMrush)](https://es.semrush.com/ranking-factors/)
