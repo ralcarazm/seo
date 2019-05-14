@@ -1,4 +1,5 @@
 # Recursos y herramientas SEO
+## Materiales del curso
 ## Factores SEO
 * [Google algorithm change (MOZ)](https://moz.com/google-algorithm-change)
 * [Ranking factors (SEMrush)](https://es.semrush.com/ranking-factors/)
