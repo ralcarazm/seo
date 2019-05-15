@@ -23,6 +23,7 @@
 * [Aleyda Solis (migraciones, Google AMP)](https://www.aleydasolis.com/en/blog/)
 * [Fernando Maciá (indexabilidad y SEO internacional)](https://www.humanlevel.com/)
 * [Luís Villanueva (auditorías SEO)](https://luismvillanueva.com/)
+* [M.J. Cachon (contenido)](https://www.mjcachon.com/)
 * [Natzir Turrado (analítica web, Conversion Rate Optimization)](https://www.analistaseo.es/)
 ## Factores SEO]()
 * [Google algorithm change (MOZ)](https://moz.com/google-algorithm-change)
