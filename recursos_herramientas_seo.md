@@ -68,6 +68,7 @@
 * [On page optimization tool](https://www.internetmarketingninjas.com/seo-tools/free-optimization/)
 * [SEO Analysis (SEO Chat)](http://tools.seochat.com/tools/seo-rapport-tool)
 * [Google SERP counter (Chrome](https://chrome.google.com/webstore/detail/google-serp-counter/bfiijneafemhklkccnjijmcniffmiode)
+* [Nofollow (Chrome)](https://www.igorware.com/extensions/nofollow/download)
 ### Velocidad de carga
 * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [GT metrix](https://gtmetrix.com/)
