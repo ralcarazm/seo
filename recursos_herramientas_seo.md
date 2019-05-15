@@ -10,6 +10,9 @@
 ### Canales oficiales
 * [Google webmaster central blog](https://webmasters.googleblog.com/)
 * [Google webmasters help](https://www.youtube.com/user/GoogleWebmasterHelp)
+* [Search Console Help Center](https://support.google.com/webmasters/#topic=9128571)
+* [Webmaster Discussion Forum](https://support.google.com/webmasters/community/?hl=en&gpf=%23!forum%2Fwebmasters)
+* [Google Webmaster Youtube Channel](https://www.youtube.com/user/GoogleWebmasterHelp)
 * [Bing search blog](https://blogs.bing.com/search)
 ### Medios especializados
 * [Search engine land](https://searchengineland.com/)
