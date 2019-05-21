@@ -3,6 +3,7 @@
 * [Fundamentos y algoritmo](https://www.dropbox.com/s/j52x3wxfu3ne2zy/fundamentos.pdf)
 * [Factores internos](https://www.dropbox.com/s/406k4fzvk7uxais/factores_internos.pdf)
 * [Factores externos](https://www.dropbox.com/s/qasre9j4psfacqq/factores_externos.pdf)
+* [Metadatos sociales](https://www.dropbox.com/s/3jjjzwfm7e28ey0/metadatos_sociales.pdf?dl=0)
 * [SEO internacional](https://www.dropbox.com/s/g6v1fkapnhgo64c/seo_internacional.pdf)
 ## Otros recursos de interés
 * [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
