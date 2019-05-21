@@ -6,6 +6,7 @@
 * [Metadatos sociales](https://www.dropbox.com/s/3jjjzwfm7e28ey0/metadatos_sociales.pdf)
 * [SEO internacional](https://www.dropbox.com/s/g6v1fkapnhgo64c/seo_internacional.pdf)
 * [schema.org](https://www.dropbox.com/s/w399iyrmumy3pq4/7.schema_org.pdf)
+* [Google AMP](https://www.dropbox.com/s/ijn17vrf4cmb03c/google_amp.pdf)
 ## Otros recursos de interés
 * [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
 ## Recursos de información
