@@ -3,8 +3,9 @@
 * [Fundamentos y algoritmo](https://www.dropbox.com/s/j52x3wxfu3ne2zy/fundamentos.pdf)
 * [Factores internos](https://www.dropbox.com/s/406k4fzvk7uxais/factores_internos.pdf)
 * [Factores externos](https://www.dropbox.com/s/qasre9j4psfacqq/factores_externos.pdf)
-* [Metadatos sociales](https://www.dropbox.com/s/3jjjzwfm7e28ey0/metadatos_sociales.pdf)
 * [SEO internacional](https://www.dropbox.com/s/g6v1fkapnhgo64c/seo_internacional.pdf)
+* [Analítica y auditoría SEO](https://www.dropbox.com/s/lsyg7z0sqr0w8r9/analitica_search_console.pdf)
+* [Metadatos sociales](https://www.dropbox.com/s/3jjjzwfm7e28ey0/metadatos_sociales.pdf)
 * [Schema.org](https://www.dropbox.com/s/w399iyrmumy3pq4/7.schema_org.pdf)
 * [Google AMP](https://www.dropbox.com/s/ijn17vrf4cmb03c/google_amp.pdf)
 ## Otros recursos de interés
