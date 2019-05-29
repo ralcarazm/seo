@@ -8,6 +8,8 @@
 * [Metadatos sociales](https://www.dropbox.com/s/3jjjzwfm7e28ey0/metadatos_sociales.pdf)
 * [Schema.org](https://www.dropbox.com/s/w399iyrmumy3pq4/7.schema_org.pdf)
 * [Google AMP](https://www.dropbox.com/s/ijn17vrf4cmb03c/google_amp.pdf)
+## Ejercicios
+* [Alta en WordPress.com y verificación con Search Console](https://www.dropbox.com/s/mw6vqvs9qsl7hfj/wordpress.com1de2.mp4?dl=0)
 ## Otros recursos de interés
 * [Guía de optimización en buscadores (SEO) para principiantes](https://support.google.com/webmasters/answer/7451184)
 ## Recursos de información
