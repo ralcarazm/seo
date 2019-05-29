@@ -14,7 +14,7 @@ Da de alta un sitio web gratuito en [WordPress.com](https://es.wordpress.com/) y
 * [Alta en WordPress.com y verificación con Search Console (vídeo)](https://www.dropbox.com/s/mw6vqvs9qsl7hfj/wordpress.com1de2.mp4?dl=0)
 ### Ejercicio 2
 Crea una página o post en el sitio web que acabas de crear con el objetivo de posicionarla para la palabra clave:
--
+*
 En el siguiente vídeo puedes ver cómo crear un post en WordPress.com:
 * [WordPress Tutorial: How to Create a Page](https://youtu.be/mCfuh5bCOwM)
 Si tienes acceso a otro sitio web y prefieres crear un contenido orientado a cualquier otra palabra clave también puedes hacerlo.
