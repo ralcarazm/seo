@@ -19,7 +19,7 @@ Crea una página o post en el sitio web que acabas de crear con el objetivo de p
 
 En el siguiente vídeo puedes ver cómo crear un post en WordPress.com:
 
-[WordPress Tutorial: How to Create a Page](https://youtu.be/mCfuh5bCOwM)\
+[WordPress Tutorial: How to Create a Page](https://youtu.be/mCfuh5bCOwM)
 
 Si tienes acceso a otro sitio web y prefieres crear un contenido orientado a cualquier otra palabra clave también puedes hacerlo.
 
