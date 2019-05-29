@@ -15,8 +15,8 @@ Da de alta un sitio web gratuito en [WordPress.com](https://es.wordpress.com/) y
 ### Ejercicio 2
 Crea una página o post en el sitio web que acabas de crear con el objetivo de posicionarla para la palabra clave:
 *
-En el siguiente vídeo puedes ver cómo crear un post en WordPress.com:
-* [WordPress Tutorial: How to Create a Page](https://youtu.be/mCfuh5bCOwM)
+En el siguiente vídeo puedes ver cómo crear un post en WordPress.com:\
+* [WordPress Tutorial: How to Create a Page](https://youtu.be/mCfuh5bCOwM)\
 Si tienes acceso a otro sitio web y prefieres crear un contenido orientado a cualquier otra palabra clave también puedes hacerlo.
 Entrega la URL de la página o post creado y explica que estrategias has utilizado para optimizar la página.
 ## Otros recursos de interés
