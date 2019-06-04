@@ -64,6 +64,7 @@
 * [What WordPress theme is that](https://whatwpthemeisthat.com/)
 ### Auditoría SEO
 * [Screaming Frog](http://www.screamingfrog.co.uk/seo-spider/)
+* [BeamUsUP](http://beamusup.com/)
 * [Spider test tool](http://tools.seobook.com/general/spider-test/)
 * [SEO quake](https://www.seoquake.com/index.html)
 * [MOZbar](https://moz.com/products/pro/seo-toolbar)
