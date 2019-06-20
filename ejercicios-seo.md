@@ -26,4 +26,4 @@ Entrega la URL de la página o post creado y explica que estrategias has utiliza
 
 ### Ejercicio 4
 * Elabora el marcado de la tesis [Construcció d'un dispositiu de diagnosi per determinar l'ajustament entre les competències acadèmiques i les professionals dels titulats del grau de disseny](https://hdl.handle.net/10803/665172) en formato JSON-LD.
-* Elabora el marcado del artículo [Relació entre les competències acadèmiques i les professionals en el perfil de dissenyador/a gràfic/a(https://ddd.uab.cat/record/178190) en formato JSON-LD.
+* Elabora el marcado del artículo [Relació entre les competències acadèmiques i les professionals en el perfil de dissenyador/a gràfic/a](https://ddd.uab.cat/record/178190) en formato JSON-LD.
