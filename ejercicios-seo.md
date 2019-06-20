@@ -21,5 +21,5 @@ Si tienes acceso a otro sitio web -real o de pruebas- y prefieres crear un conte
 Entrega la URL de la página o post creado y explica que estrategias has utilizado para optimizarla.
 
 ### Ejercicio 3
-* Elabora el marcado con microdatos del artículo [Els nous criteris d'avaluació d'ANECA](http://blogs.uab.cat/bibliotecainformacions/2019/04/30/els-nous-criteris-davaluacio-daneca-core-raul/] mediante Schema.org
+* Elabora el marcado con microdatos del artículo [Els nous criteris d'avaluació d'ANECA](http://blogs.uab.cat/bibliotecainformacions/2019/04/30/els-nous-criteris-davaluacio-daneca-core-raul/) mediante Schema.org
 * Elabora el marcado del mismo artículo utilizando la codificación JSON-LD.
