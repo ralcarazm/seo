@@ -23,7 +23,9 @@ Entrega la URL de la página o post creado y explica que estrategias has utiliza
 ### Ejercicio 3
 * Elabora el marcado con microdatos del artículo [Els nous criteris d'avaluació d'ANECA](http://blogs.uab.cat/bibliotecainformacions/2019/04/30/els-nous-criteris-davaluacio-daneca-core-raul/) mediante Schema.org
 * Elabora el marcado del mismo artículo utilizando la codificación JSON-LD.
+* [Solucionario ejercicio 3](https://www.dropbox.com/s/ex40ebjn5dwkxw6/ejercicio3_solucionario.html?dl=0)
 
 ### Ejercicio 4
 * Elabora el marcado de la tesis [Construcció d'un dispositiu de diagnosi per determinar l'ajustament entre les competències acadèmiques i les professionals dels titulats del grau de disseny](https://hdl.handle.net/10803/665172) en formato JSON-LD.
 * Elabora el marcado del artículo [Relació entre les competències acadèmiques i les professionals en el perfil de dissenyador/a gràfic/a](https://ddd.uab.cat/record/178190) en formato JSON-LD.
+* [Solucionario ejercicio 4](https://www.dropbox.com/s/0bktlsqhvtvk1f4/ejercicio4_solucionario.html?dl=0)
