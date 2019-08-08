@@ -75,6 +75,8 @@
 * [SEO Analysis (SEO Chat)](http://tools.seochat.com/tools/seo-rapport-tool)
 * [Google SERP counter (Chrome](https://chrome.google.com/webstore/detail/google-serp-counter/bfiijneafemhklkccnjijmcniffmiode)
 * [Nofollow (Chrome)](https://www.igorware.com/extensions/nofollow/download)
+* [SEO META in 1 CLICK](https://chrome.google.com/webstore/detail/seo-meta-in-1-click/bjogjfinolnhfhkbipphpdlldadpnmhc?hl=es)
+* [Link Redirect Trace](https://www.linkresearchtools.com/seo-tools/free-seo-tools/link-redirect-trace-extension/)
 ### Velocidad de carga
 * [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [GT metrix](https://gtmetrix.com/)
