@@ -82,6 +82,7 @@
 * [GT metrix](https://gtmetrix.com/)
 * [YSlow](http://yslow.org/)
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/)
+* [Sonar](https://chrome.google.com/webstore/detail/sonar/dibilcjfahbokhiodajibcajcabfjein)
 ### Salud del servidor y seguridad
 * [Web page test](https://www.webpagetest.org/)
 * [Website Analysis (Nibbler)(http://nibbler.silktide.com/)
