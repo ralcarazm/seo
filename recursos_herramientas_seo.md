@@ -122,6 +122,7 @@
 * [Plagiarisma](http://plagiarisma.net/)
 * [Plagiarism Checker](https://smallseotools.com/plagiarism-checker/)
 * [Docode](https://www.docode.cl/)
+* [Calculadora ratio texto/html](https://labs.woko.agency/calculadora-de-ratio-codigotexto/)
 ### Herramientas multipropósito (de pago)
 * [SEMrush](https://www.semrush.com/)
 * [All-in-One Website SEO](https://moz.com/products)
