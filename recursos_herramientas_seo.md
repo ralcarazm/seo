@@ -110,12 +110,11 @@
 * [Google Analytics](https://analytics.google.com/analytics/web/)
 * link:dominio (en el buscador de Google)
 * [Open Link Profiler](https://openlinkprofiler.org)
-* [Link explorer (MOZ)](https://moz.com/researchtools/ose/)
-* [Open Link Profiler](https://openlinkprofiler.org)
 * [Who links 2 me](http://www.wholinks2me.com/)
 * [Bad Neighborhood Check](http://www.bad-neighborhood.com/text-link-tool.htm)
 * [NoFollow (extensión Chrome)](https://chrome.google.com/webstore/detail/nofollow/dfogidghaigoomjdeacndafapdijmiid)
 * [Majestic SEO](https://es.majestic.com/)
+* [Link explorer (MOZ)](https://moz.com/researchtools/ose/)
 ### Generación y seguimiento de contenido
 * [SEO Writing Assistant](https://es.semrush.com/swa/demo)
 * [Google Alerts](http://www.google.com/alerts)
