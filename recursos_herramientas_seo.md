@@ -36,7 +36,7 @@
 * [Luís Villanueva (auditorías SEO)](https://luismvillanueva.com/)
 * [M.J. Cachon (contenido)](https://www.mjcachon.com/)
 * [Natzir Turrado (analítica web, Conversion Rate Optimization)](https://www.analistaseo.es/)
-## Factores SEO]()
+## Factores SEO
 * [Google algorithm change (MOZ)](https://moz.com/google-algorithm-change)
 * [Ranking factors (SEMrush)](https://es.semrush.com/ranking-factors/)
 ## Herramientas
@@ -110,6 +110,7 @@
 * [Google Analytics](https://analytics.google.com/analytics/web/)
 * link:dominio (en el buscador de Google)
 * [Link explorer (MOZ)](https://moz.com/researchtools/ose/)
+* [Open Link Profiler](https://openlinkprofiler.org)
 * [Who links 2 me](http://www.wholinks2me.com/)
 * [Bad Neighborhood Check](http://www.bad-neighborhood.com/text-link-tool.htm)
 * [NoFollow (extensión Chrome)](https://chrome.google.com/webstore/detail/nofollow/dfogidghaigoomjdeacndafapdijmiid)
