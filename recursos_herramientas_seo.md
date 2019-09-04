@@ -109,6 +109,7 @@
 * [Google Search Console](https://search.google.com/search-console)
 * [Google Analytics](https://analytics.google.com/analytics/web/)
 * link:dominio (en el buscador de Google)
+* [Open Link Profiler](https://openlinkprofiler.org)
 * [Link explorer (MOZ)](https://moz.com/researchtools/ose/)
 * [Open Link Profiler](https://openlinkprofiler.org)
 * [Who links 2 me](http://www.wholinks2me.com/)
